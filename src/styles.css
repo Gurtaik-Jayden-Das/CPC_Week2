@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+#startButton {
+  color: white;
+  background: black;
+  text-align: center;
+  display: inline-block;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 100px;
+  font-size: 50px;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -150px;
+  border-radius: 5px;
+  border-color: yellow;
+  border-style: solid;
+  border-width: 15px;
+}
