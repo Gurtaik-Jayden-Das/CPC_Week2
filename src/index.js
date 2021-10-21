@@ -38,9 +38,9 @@ function init() {
   scene = new THREE.Scene();
   scene.background = new THREE.Color(0xdfdfdf);
 
-  //create our camera
+  //create our camera //change first parameter '750' to change the size of the camera zoom and size the shape will appear as
   camera = new THREE.PerspectiveCamera(
-    75,
+    750,
     window.innerWidth / window.innerHeight,
     0.1,
     1000

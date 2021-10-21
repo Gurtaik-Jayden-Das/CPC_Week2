@@ -1,7 +1,7 @@
 {
-  "name": "cpc-week-1-task-3",
+  "name": "cpc-week-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating a THREE template and using WebGL to create a rotating cube that reacts with audio when using the mouse",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
